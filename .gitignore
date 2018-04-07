@@ -1,0 +1,4 @@
+# vscode exluding
+.idea/
+.vscode/
+build/
