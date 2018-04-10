@@ -1,7 +1,6 @@
 //
 // Created by rothnald on 2/25/18.
 //
-// #include <glad/glad.h>
 
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
